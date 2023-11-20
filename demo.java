@@ -4,3 +4,6 @@ public static void main(){
 void somefunction(){
 	system.out.println("New somefunction is created");
 }
+void newfunction(){
+	system.out.println("New newfunction is created");
+}
