@@ -7,3 +7,7 @@ void somefunction(){
 void newfunction(){
 	system.out.println("New newfunction is created");
 }
+void create_account(){
+	boolean acc=true;
+	int bal=1000;
+}
