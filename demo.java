@@ -7,3 +7,6 @@ void somefunction(){
 void newfunction(){
 	system.out.println("New newfunction is created");
 }
+void deposit(int d){
+	bal=bal+d;
+}
