@@ -10,3 +10,6 @@ void newfunction(){
 void deposit(int d){
 	bal=bal+d;
 }
+void withdraw(int w){
+	bal=bal-w;
+}
