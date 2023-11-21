@@ -14,3 +14,9 @@ void create_account(){
 void issue_passbook(){
 	boolean pb=true;
 }
+void deposit(int d){
+	bal=bal+d;
+}
+void withdraw(int w){
+	bal=bal-w;
+}
