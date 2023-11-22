@@ -20,3 +20,7 @@ void deposit(int d){
 void withdraw(int w){
 	bal=bal-w;
 }
+void issue_loan(){
+	boolean loan=true;
+	loan_bal=10000;
+}
