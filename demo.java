@@ -24,3 +24,6 @@ void issue_loan(){
 	boolean loan=true;
 	loan_bal=10000;
 }
+void pay_emi(int emi){
+	loan_bal=loan_bal-emi;
+}
