@@ -27,3 +27,7 @@ void issue_loan(){
 void pay_emi(int emi){
 	loan_bal=loan_bal-emi;
 }
+void close_loan(int fullpayment){
+	loan_bal=loan_bal-fullpayment;
+	boolean loan=false;
+}
